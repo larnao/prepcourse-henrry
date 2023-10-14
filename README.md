@@ -1,2 +1,1 @@
-# prepcourse-henrry
-este es un repositorio de prueba del modulo 2 del curso de henrry
+este proyecto es una prueba de como crear un repositorio desde githube y clonarlo a mi computadora 
